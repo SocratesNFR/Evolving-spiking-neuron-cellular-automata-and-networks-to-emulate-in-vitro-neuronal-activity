@@ -44,5 +44,5 @@ EXTERNAL LIBRARIES:
 automata and networks to emulate in vitro neuronal activity," International Conference on Evolvable Systems
 (IEEE Symposium Series on Computational Intelligence 2021), 2021. 
 
-[2] DA Wagenaar, J Pine, and SM Potter, "An extremely rich repertoire of bursting patterns during teh development of 
+[2] DA Wagenaar, J Pine, and SM Potter, "An extremely rich repertoire of bursting patterns during the development of 
 cortical cultures," BMC Neuroscience, 7(1):11, 2006.
